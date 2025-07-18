@@ -1,0 +1,18 @@
+{
+    "DE:79:17:93:BB:9B": {
+        "role": "superadmin",
+        "allowed_topics": []
+    },
+    "BC:FC:E7:48:BF:25": {
+        "role": "superadmin",
+        "allowed_topics": []
+    },
+    "30:C9:AB:52:D8:25": {
+        "role": "subscriber",
+        "allowed_topics": []
+    },
+    "98:3B:8F:8D:E7:E9": {
+        "role": "publisher",
+        "allowed_topics": ["298035001"]
+    }
+}
