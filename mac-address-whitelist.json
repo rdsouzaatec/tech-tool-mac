@@ -14,6 +14,10 @@
     "A0:82:B7:98:8C:29": {
         "role": "subscriber",
         "allowed_topics": []
+    },    
+    "C3:3A:86:C6:77:34": {
+        "role": "subscriber",
+        "allowed_topics": []
     },
     "98:3B:8F:8D:E7:ED": {
         "role": "publisher",
