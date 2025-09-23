@@ -22,6 +22,10 @@
     "87:71:15:2A:F9:59": {
         "role": "subscriber",
         "allowed_topics": []
+    },    
+    "BF:87:E0:B3:88:23": {
+        "role": "subscriber",
+        "allowed_topics": []
     },
     "B8:1E:A4:52:69:CA": {
         "role": "subscriber",
