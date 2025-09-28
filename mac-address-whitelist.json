@@ -35,7 +35,7 @@
         "role": "publisher",
         "allowed_topics": ["298035001"]
     },
-        "E8:FB:1C:35:95:13": {
+        "B3:FC:C8:F1:51:CF": {
         "role": "superadmin",
         "allowed_topics": []
     }
