@@ -34,5 +34,9 @@
     "98:3B:8F:8D:E7:ED": {
         "role": "publisher",
         "allowed_topics": ["298035001"]
+    },
+        "E8:FB:1C:35:95:13": {
+        "role": "superadmin",
+        "allowed_topics": []
     }
 }
