@@ -38,5 +38,9 @@
         "B3:FC:C8:F1:51:CF": {
         "role": "superadmin",
         "allowed_topics": []
+    },
+        "DE:79:17:93:BB:9A": {
+        "role": "superadmin",
+        "allowed_topics": []
     }
 }
