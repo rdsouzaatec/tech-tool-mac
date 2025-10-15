@@ -31,6 +31,10 @@
         "role": "subscriber",
         "allowed_topics": []
     },
+    "D8:F7:CC:C9:F3:D7": {
+        "role": "subscriber",
+        "allowed_topics": []
+    },
     "98:3B:8F:8D:E7:ED": {
         "role": "publisher",
         "allowed_topics": ["298035001"]
