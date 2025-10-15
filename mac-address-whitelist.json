@@ -46,5 +46,13 @@
         "DE:79:17:93:BB:9A": {
         "role": "superadmin",
         "allowed_topics": []
+    },
+        "A3:0F:B5:7B:3E:28": {
+        "role": "subscriber",
+        "allowed_topics": []
+    },
+        "B0:E1:55:3A:F3:51": {
+        "role": "subscriber",
+        "allowed_topics": []
     }
 }
