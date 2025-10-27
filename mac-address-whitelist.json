@@ -54,6 +54,10 @@
         "C1:BA:5E:1A:B3:91": {
         "role": "subscriber",
         "allowed_topics": []
+    },   
+        "E1:3A:54:AC:3E:B5": {
+        "role": "subscriber",
+        "allowed_topics": []
     },
         "B0:E1:55:3A:F3:51": {
         "role": "subscriber",
