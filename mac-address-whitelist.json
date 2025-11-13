@@ -15,6 +15,10 @@
         "role": "superadmin",
         "allowed_topics": []
     },
+    "00:E0:4C:36:0A:1C": {
+        "role": "superadmin",
+        "allowed_topics": []
+    },
     "A0:82:B7:98:8C:29": {
         "role": "subscriber",
         "allowed_topics": []
