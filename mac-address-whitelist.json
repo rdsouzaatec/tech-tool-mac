@@ -67,6 +67,14 @@
         "role": "subscriber",
         "allowed_topics": []
     },
+        "E4:A8:DF:B4:BA:5C": {
+        "role": "subscriber",
+        "allowed_topics": []
+    },
+        "44:38:E8:26:3F:C6": {
+        "role": "subscriber",
+        "allowed_topics": []
+    },
         "B0:E1:55:3A:F3:51": {
         "role": "subscriber",
         "allowed_topics": []
