@@ -23,6 +23,10 @@
         "role": "superadmin",
         "allowed_topics": []
     },
+    "C8:34:8E:32:0C:F9": {
+        "role": "superadmin",
+        "allowed_topics": []
+    },
     "A0:82:B7:98:8C:29": {
         "role": "subscriber",
         "allowed_topics": []
