@@ -82,5 +82,9 @@
         "B0:E1:55:3A:F3:51": {
         "role": "subscriber",
         "allowed_topics": []
+    },
+        "8C:A7:91:BF:3F:C8": {
+        "role": "subscriber",
+        "allowed_topics": []
     }
 }
