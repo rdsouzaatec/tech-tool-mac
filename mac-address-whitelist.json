@@ -86,5 +86,9 @@
         "CC:37:A4:D0:0D:7D": {
         "role": "subscriber",
         "allowed_topics": []
+    },
+        "30:C9:AB:52:D8:26": {
+        "role": "subscriber",
+        "allowed_topics": []
     }
 }
